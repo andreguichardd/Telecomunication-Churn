@@ -1,6 +1,6 @@
 # Customer Churn Prediction — Telco
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/andreguichardd/Telecomunication-Churn/blob/main/churn_prediction.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/andreguichardd/Telecomunication-Churn/blob/main/Final_entrega.ipynb)
 
 **End-to-end ML pipeline predicting customer churn for a telecommunications company.**
 
@@ -14,6 +14,7 @@ Telecom companies lose significant revenue to customer churn. The goal of this p
 
 ## Dataset
 
+- Public telecom customer churn dataset (not included; load it as `Telecom.csv`, `;`-separated)
 - 7,000+ customer records
 - Features: tenure, contract type, services subscribed, billing information, payment method, support interactions
 
@@ -46,6 +47,6 @@ Python    Pandas · NumPy · Scikit-learn · XGBoost · SHAP · Matplotlib · Se
 ## Project Structure
 
 ```
-├── churn_prediction.ipynb   # Full pipeline: EDA, feature engineering, modelling, evaluation
+├── Final_entrega.ipynb   # Full pipeline: EDA, feature engineering, modelling, evaluation
 └── README.md
 ```
